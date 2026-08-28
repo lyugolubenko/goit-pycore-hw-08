@@ -1,4 +1,19 @@
-__pycache__/
-
+# Файли збережених даних та дампи (Pickle)
 *.pkl
 addressbook.pkl
+
+# Налаштування VS Code
+.vscode/
+
+# КЕШ та скомпільовані файли Python
+__pycache__/
+*.py[cod]
+
+# Віртуальні середовища
+.venv/
+env/
+venv/
+
+# Файли логів та конфігурацій
+*.log
+.env
